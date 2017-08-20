@@ -46,6 +46,10 @@
 	flex-direction: column;
 	justify-content: space-around;
 }
+
+.techs {
+	font-size: 14px;
+}
 /*
 	Photon by HTML5 UP
 	html5up.net | @ajlkn
@@ -2339,6 +2343,10 @@
 		display: inline-block;
 		position: relative;
 	}
+
+		.image.projects {
+			border: 1px solid #D3D3D3;
+		}
 
 		.image img {
 			border-radius: 4px;
