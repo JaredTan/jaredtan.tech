@@ -10,7 +10,7 @@
 	margin: 25px;
 }
 
-.education {
+.infotitle {
 	display: inline-block;
 	padding-bottom: 20px;
 	border-bottom: 2px solid;
@@ -37,6 +37,7 @@
 
 .skills {
 	margin-top: 10px;
+	font-size: 19px;
 	display: flex;
 	justify-content: space-around;
 }
@@ -49,6 +50,10 @@
 
 .techs {
 	font-size: 14px;
+}
+
+.education {
+
 }
 /*
 	Photon by HTML5 UP
