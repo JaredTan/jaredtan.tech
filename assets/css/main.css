@@ -52,8 +52,12 @@
 	font-size: 14px;
 }
 
-.education {
+.resume {
+	margin-bottom: -10px;
+}
 
+.education {
+	width: 20em;
 }
 /*
 	Photon by HTML5 UP
