@@ -70,6 +70,13 @@
 	border-radius: 25px;
 }
 
+.hackathon {
+	font-weight: bold;
+}
+
+.hackathon a {
+	text-decoration: underline;
+}
 /*
 	Photon by HTML5 UP
 	html5up.net | @ajlkn
@@ -2982,7 +2989,7 @@
 			margin: 2.5em 0 0 0;
 			position: relative;
 		}
-
+/*
 			#header .actions:after {
 				background: #ffffff;
 				content: '';
@@ -2990,7 +2997,7 @@
 				left: 50%;
 				position: absolute;
 				top: 100%;
-			}
+			}*/
 
 		#header .inner {
 			-moz-transition: -moz-transform 1.5s ease, opacity 2s ease;
